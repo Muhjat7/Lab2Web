@@ -1,5 +1,5 @@
 # lab2web
-Nama : Muhamad Jati Wasesa
+Nama : Muhamad Jati Wasesa <br>
 Kelas : TI.22.A.5
 
 ## Belajar PHP Dasar
@@ -12,18 +12,18 @@ Hasil:
 ![firefox_NLBlF7Z6rR](https://github.com/steprtm/lab2web/assets/129705802/bc3adfcf-c6b5-44bd-85bc-a0cf7da6cf47)
 
 ## Menggunakan Variable
-![Screenshot (217)](https://github.com/IdrisSyahrudin/Lab2Web/assets/129921422/99d2c3d8-9ae1-4377-b5ff-20a607cf940b)
+![Capture1](https://github.com/Muhjat7/Lab2Web/assets/129918243/53044424-aec6-4f48-9b8a-efccf2084f79)
 
 Hasil:
 
-![Screenshot (215)](https://github.com/IdrisSyahrudin/Lab2We/assets/129921422/fa43b29b-23e8-4079-8bae-ef23191bd847)
+![Capture](https://github.com/Muhjat7/Lab2Web/assets/129918243/eba7fa82-85a1-4c0f-a5a2-abb1a81067f2)
 
 ## Form Input
 ![Code_8pCIUg5wi3](https://github.com/steprtm/lab2web/assets/129705802/a06d70eb-ac57-499b-aa90-8adaeca21364)
 
 Hasil:
 
-![Screenshot (216)](https://github.com/IdrisSyahrudin/Lab2We/assets/129921422/7940f7a4-5e9d-460b-9687-7850f7e353dd)
+![Capture3](https://github.com/Muhjat7/Lab2Web/assets/129918243/b7a27aab-91a9-4b8e-a622-a08a105ddf5e)
 
 
 ## Tugas
@@ -32,7 +32,7 @@ Hasil:
 Hasil:
 
 
-![Screenshot (213)](https://github.com/IdrisSyahrudin/Lab2We/assets/129921422/d116d645-397f-4a81-b617-ff439eb5c607)
+![Capture4](https://github.com/Muhjat7/Lab2Web/assets/129918243/419ab833-3e6f-4a39-a99d-50a844965e48)
 
 
 ## Penjelasan
